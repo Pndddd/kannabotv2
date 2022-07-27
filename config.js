@@ -59,15 +59,15 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
+global.nomorbot = '6285653'
+global.nomorown = '6285651443577'
 global.namebot = 'Kanna BOT'
 global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
+  ['6285651443577'],
   ['6285334930628'],
   ['18126338970'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
